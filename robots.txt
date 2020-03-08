@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiezeicha.datasciencemasters.org/sitemap.xml
